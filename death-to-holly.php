@@ -1,17 +1,17 @@
 <?php
 /**
  * @package Death_To_Holly
- * @version 0.1
+ * @version 0.2
  */
 /*
 Plugin Name: Death To Holly
-Description: Initial version for testing
+Description: It's literally hello dolly. That's all. Nothing more.
 Author: PEMADOBS
 Version: 0.1
 Author URI: https://duffion.com/
 */
 
-
+// Literally the only thing changed is this line lol
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(

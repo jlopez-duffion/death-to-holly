@@ -28,3 +28,6 @@ I'm testing plugin deployment/auto-updates.
 
 = 0.1 =
 *Initial commit. Nothing here but us chickens!
+
+= 0.2 =
+*Just messed with the description a little
