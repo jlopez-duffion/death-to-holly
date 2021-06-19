@@ -7,7 +7,7 @@
 Plugin Name: Death To Holly
 Description: It's literally hello dolly. That's all. Nothing more.
 Author: PEMADOBS
-Version: 0.1
+Version: 0.2
 Author URI: https://duffion.com/
 */
 
