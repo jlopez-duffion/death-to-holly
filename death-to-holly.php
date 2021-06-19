@@ -22,7 +22,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 
 //Set the branch that contains the stable release.
 $myUpdateChecker->setBranch('master');
-
+$myUpdateChecker->getVcsApi()->enableReleaseAssets();
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
 	$lyrics = "Hello, Dolly
