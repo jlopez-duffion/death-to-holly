@@ -6,7 +6,7 @@
 /*
 Plugin Name: Death To Holly
 Description: Initial version for testing
-Author: DMOPEADOBS
+Author: PEMADOBS
 Version: 0.1
 Author URI: https://duffion.com/
 */
