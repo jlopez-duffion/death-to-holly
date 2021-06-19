@@ -1,0 +1,20 @@
+{
+	"name": "Death to Holly",
+	"version": "0.1",
+	"download_url": "https://duffion.com/plugins/death-to-holly.zip",
+
+	"homepage": "https://www.duffion.com/",
+	"requires": "5.7.2",
+	"tested": "5.7.2",
+	"last_updated": "2021-06-18 14:12:00",
+	"upgrade_notice": "If you don't upgrade, Duffion's Potato Eating Manager and Destroyer of Backend Services (Intern) will eat all your potatoes (and, of course, destroy your backend services).",
+
+	"author": "Duffion's Potato Eating Manager and Destroyer of Backend Services (Intern)",
+	"author_homepage": "https://www.duffion.com/",
+
+	"sections": {
+		"description": "Literally just hello dolly. Using this plugin to test the functionality of the update checker",
+		"installation": "None; just activate and go",
+		"changelog": "Inital commit; no changes yet!",
+	}
+}
