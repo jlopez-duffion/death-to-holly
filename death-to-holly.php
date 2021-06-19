@@ -5,11 +5,13 @@
  */
 /*
 Plugin Name: Death To Holly
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+Description: Here's the updated description to show the change!
 Author: DMOPEADOBS
 Version: 0.1
 Author URI: https://duffion.com/
 */
+
+
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
