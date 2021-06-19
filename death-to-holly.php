@@ -1,17 +1,18 @@
 <?php
 /**
  * @package Death_To_Holly
- * @version 0.2
+ * @version 0.3
  */
 /*
 Plugin Name: Death To Holly
 Description: It's literally hello dolly. That's all. Nothing more.
 Author: PEMADOBS
-Version: 0.2
+Version: 0.3
 Author URI: https://duffion.com/
 */
 
 // Literally the only thing changed is this line lol
+// Okay I lied, also this line
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
@@ -23,6 +24,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 //Set the branch that contains the stable release.
 $myUpdateChecker->setBranch('master');
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();
+
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
 	$lyrics = "Hello, Dolly
