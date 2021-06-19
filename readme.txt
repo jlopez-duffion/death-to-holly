@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: DPEMADOBS
+Contributors: PEMADOBS
 Donate link: https://duffion.com/
 Tags: hello-world
 Requires at least: 5.7.2
