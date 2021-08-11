@@ -31,3 +31,6 @@ I'm testing plugin deployment/auto-updates.
 
 = 0.2 =
 *Just messed with the description a little
+
+= 0.3 =
+*Testing a release of my stupid test plugin

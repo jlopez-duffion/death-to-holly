@@ -1,13 +1,13 @@
 <?php
 /**
  * @package Death_To_Holly
- * @version 0.3
+ * @version 0.4
  */
 /*
 Plugin Name: Death To Holly
 Description: It's literally hello dolly. That's all. Nothing more.
 Author: PEMADOBS
-Version: 0.3
+Version: 0.4
 Author URI: https://duffion.com/
 */
 
